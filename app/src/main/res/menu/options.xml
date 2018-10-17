@@ -25,7 +25,7 @@
     android:id="@+id/reset"
     android:title="@string/reset"
     android:icon="@drawable/ic_reset"
-    app:showAsAction="ifRoom" />
+    app:showAsAction="never" />
 
 
 </menu>
